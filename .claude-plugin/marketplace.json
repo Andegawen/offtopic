@@ -1,0 +1,5 @@
+{
+  "name": "offtopic",
+  "owner": { "name": "Andegawen" },
+  "plugins": [{ "name": "offtopic", "source": "./" }]
+}

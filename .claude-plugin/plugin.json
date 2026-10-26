@@ -1,0 +1,1 @@
+{ "name": "offtopic", "version": "0.1.0", "description": "A live histogram of the conversation's topics above the prompt, labelled by Haiku after each turn", "types": "./types/index.d.ts" }
